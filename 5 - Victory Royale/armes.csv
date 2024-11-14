@@ -1,0 +1,4 @@
+arme,degat,precision_courte,precision_moyenne,precision_longue,cadence
+FusilAssaut,36,0.35,0.30,0.15,5.5
+Pompe,88,3,0.2,0.01,1.5
+Sniper,132,0.40,1,2,0.33
